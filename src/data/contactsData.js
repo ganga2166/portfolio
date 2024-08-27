@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'pavanc1997@gmail.com',
-    phone: '+91 9951407063',
-    address: 'JP Nagar, Banglore, India - 560078 ',
+    email: 'mukkagangaprasad@gmail.com',
+    phone: '+91 7989445790',
+    address: 'Hyderabad, India - 500072 ',
 
     sheetAPI: ''
 }

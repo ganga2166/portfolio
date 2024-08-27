@@ -1,10 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-  name: "Pavan Kumar Ch N ",
-  title: "Full Stack Web Developer",
+  name: "Ganga Prasad",
+  title: "DevOps Engineer",
   desciption:
-    "Passionate, innovative web developer with a specialization in MERN. Self motivated, curious with a keen interest in building user-centric products. Collaborative and loves building websites, eager to be part of an IT company.",
-  image: "/pavan.jpg",
+    "Passionate DevOps engineer with expertise in AWS, Azure, and GCP. I enjoy working with containerization and orchestration tools like Kubernetes and Docker. Always eager to learn new technologies.",
+  image: "/prasad.jpg",
   resumePdf: resume,
 };
